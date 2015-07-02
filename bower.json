@@ -1,0 +1,27 @@
+{
+  "name": "flexiblegs-bem-css",
+  "version": "5.0.0",
+  "homepage": "http://flexible.gs",
+  "authors": [
+    "@dnomak"
+  ],
+  "description": "Flexible Grid System BEM CSS",
+  "main": "flexiblegs.css",
+  "keywords": [
+    "css",
+    "bem",
+    "grid",
+    "responsive",
+    "framework",
+    "flexible",
+    "flexbox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "LICENCE.md",
+    "README.md"
+  ]
+}
