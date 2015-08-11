@@ -1,10 +1,10 @@
-# [flexiblegs-bem-css](http://flexible.gs)
+# [flexiblegs-bem](http://flexible.gs)
 
-Flexible Grid System BEM CSS
+Flexible Grid System BEM
 
 ## Install
 
-### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-bem-css/master/flexiblegs.css)
+### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-bem/master/flexiblegs.css)
 ```html
 <head>
   <link rel="stylesheet" href="flexiblegs.min.css">
@@ -13,7 +13,7 @@ Flexible Grid System BEM CSS
 
 ### [Bower](http://bower.io)
 ```
-$ bower install --save flexiblegs-bem-css
+$ bower install --save flexiblegs-bem
 ```
 
 ## License
