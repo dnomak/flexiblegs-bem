@@ -11,6 +11,11 @@ Flexible Grid System BEM
 </head>
 ```
 
+### [npm](https://www.npmjs.com/package/flexiblegs-bem)
+```
+$ npm install --save flexiblegs-bem
+```
+
 ### [Bower](http://bower.io)
 ```
 $ bower install --save flexiblegs-bem

@@ -14,11 +14,10 @@
     "flex"
   ],
   "main": "flexiblegs.css",
-  "authors": [
-    "@dnomak"
-  ],
+  "author": "@dnomak",
   "license": "MIT",
-  "ignore": [
-    "**/.*"
-  ]
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flexiblegs/flexiblegs-bem.git"
+  }
 }
