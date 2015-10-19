@@ -1,6 +1,6 @@
 {
   "name": "flexiblegs-bem",
-  "version": "5.4.1",
+  "version": "5.4.2",
   "homepage": "http://flexible.gs",
   "description": "Flexible Grid System BEM",
   "keywords": [
@@ -13,7 +13,7 @@
     "flexbox",
     "flex"
   ],
-  "main": "flexiblegs.css",
+  "main": "flexiblegs-bem.css",
   "authors": [
     "@dnomak"
   ],

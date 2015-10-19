@@ -4,10 +4,10 @@ Flexible Grid System BEM
 
 ## Install
 
-### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-bem/master/flexiblegs.css)
+### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-bem/master/flexiblegs-bem.css) the file and add the project as follows.
 ```html
 <head>
-  <link rel="stylesheet" href="flexiblegs.css">
+  <link rel="stylesheet" href="flexiblegs-bem.css">
 </head>
 ```
 
@@ -16,7 +16,7 @@ Flexible Grid System BEM
 $ npm install --save flexiblegs-bem
 ```
 
-### [Bower](http://bower.io)
+### [bower](http://bower.io/search/?q=flexiblegs-bem)
 ```
 $ bower install --save flexiblegs-bem
 ```
