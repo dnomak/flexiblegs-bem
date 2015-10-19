@@ -4,7 +4,7 @@ Flexible Grid System BEM
 
 ## Install
 
-### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-bem/master/flexiblegs-bem.css) the file and add the project as follows.
+### [Download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-bem/master/flexiblegs-bem.css)
 ```html
 <head>
   <link rel="stylesheet" href="flexiblegs-bem.css">
