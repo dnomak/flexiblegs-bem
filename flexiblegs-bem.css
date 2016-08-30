@@ -1,4 +1,4 @@
-/*! Flexible Grid System 5.5.2 | BEM | MIT License | flexible.gs */
+/*! Flexible Grid System 5.5.3 | BEM | MIT License | flexible.gs */
 
 .wrap {
   display: block;
@@ -13,6 +13,7 @@
 
 .wrap > * {
   display: inline-block;
+  vertical-align: top;
 }
 
 .wrap__col {
