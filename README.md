@@ -1,4 +1,4 @@
-# [flexiblegs-bem](http://flexible.gs)
+# [flexiblegs-bem](https://dnomak.com/flexiblegs/)
 
 Flexible Grid System BEM
 
@@ -12,17 +12,10 @@ Flexible Grid System BEM
 ```
 
 ### [npm](https://www.npmjs.com/package/flexiblegs-bem)
-```
+```bash
 $ npm install --save flexiblegs-bem
-```
-
-### [bower](http://bower.io/search/?q=flexiblegs-bem)
-```
-$ bower install --save flexiblegs-bem
 ```
 
 ## License
 - Flexible Grid System is licensed under the MIT license.
   - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
-- Flexible Grid System documentation is licensed under a Creative Commons Attribution 4.0 International License.
-  - [http://creativecommons.org/licenses/by/4.0](http://creativecommons.org/licenses/by/4.0)
